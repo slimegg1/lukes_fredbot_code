@@ -42,7 +42,7 @@ public final class Constants {
 
     public static final int RIGHT_ENCODER_PORT = 2;
 
-  }
+  }//RANDOM CHANGE
 
   /** Drive Constants and Drive related simulation constants */
   public static final class Drive {
